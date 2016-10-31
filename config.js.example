@@ -1,0 +1,6 @@
+module.exports = {
+    uploads_directory: 'uploads',
+    url_length: 11,
+    default_message: 'Yo how you doin this is the new tmg.pw screenshot server...',
+    api_keys: ['test']
+};
